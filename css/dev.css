@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(49, 49, 49);
+    color: rgb(216, 199, 164);
+    padding: 5px;
+    border: solid whitesmoke 2px;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    border: dashed red 1px;
+}
+
+footer {
+    text-align: right;
+    border-top: blueviolet ridge 4px;
+}
+
+a {
+    text-decoration: none;
+    border: none;
+}
